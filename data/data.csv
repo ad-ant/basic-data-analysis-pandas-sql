@@ -1,0 +1,46 @@
+order_id,order_date,product,category,price,quantity,country
+1,2024-01-05,Laptop,Electronics,3500,1,Poland
+2,2024-01-07,Headphones,Electronics,300,2,Germany
+3,2024-01-10,Office Chair,Furniture,800,1,Poland
+4,2024-01-15,Laptop,Electronics,3500,1,France
+5,2024-02-03,Desk,Furniture,1200,1,Germany
+6,2024-02-08,Headphones,Electronics,300,3,Poland
+7,2024-02-14,Laptop,Electronics,3500,2,Germany
+8,2024-02-20,Office Chair,Furniture,800,1,France
+9,2024-03-02,Desk,Furniture,1200,1,Poland
+10,2024-03-05,Laptop,Electronics,3500,1,Germany
+11,2024-03-12,Headphones,Electronics,300,2,France
+12,2024-03-18,Office Chair,Furniture,800,1,Poland
+13,2024-04-01,Laptop,Electronics,3500,1,Poland
+14,2024-04-07,Desk,Furniture,1200,2,Germany
+15,2024-04-15,Headphones,Electronics,300,1,Poland
+16,2024-05-03,Office Chair,Furniture,800,2,France
+17,2024-05-10,Laptop,Electronics,3500,1,Germany
+18,2024-05-18,Desk,Furniture,1200,1,Poland
+19,2024-06-02,Headphones,Electronics,300,2,Germany
+20,2024-06-10,Laptop,Electronics,3500,1,France
+21,2024-06-18,Office Chair,Furniture,800,1,Poland
+22,2024-06-25,Desk,Furniture,1200,1,Germany
+23,2024-07-03,Laptop,Electronics,3500,1,Poland
+24,2024-07-07,Headphones,Electronics,300,2,France
+25,2024-07-14,Desk,Furniture,1200,1,Poland
+26,2024-07-20,Office Chair,Furniture,800,2,Germany
+27,2024-08-02,Laptop,Electronics,3500,1,Germany
+28,2024-08-06,Headphones,Electronics,300,3,Poland
+29,2024-08-12,Desk,Furniture,1200,1,France
+30,2024-08-18,Office Chair,Furniture,800,1,Poland
+31,2024-09-01,Laptop,Electronics,3500,2,France
+32,2024-09-05,Headphones,Electronics,300,2,Germany
+33,2024-09-10,Desk,Furniture,1200,1,Poland
+34,2024-09-17,Office Chair,Furniture,800,1,Germany
+35,2024-10-02,Laptop,Electronics,3500,1,Poland
+36,2024-10-06,Headphones,Electronics,300,1,France
+37,2024-10-11,Desk,Furniture,1200,2,Germany
+38,2024-10-19,Office Chair,Furniture,800,1,Poland
+39,2024-11-03,Laptop,Electronics,3500,1,Germany
+40,2024-11-07,Headphones,Electronics,300,2,Poland
+41,2024-11-15,Desk,Furniture,1200,1,France
+42,2024-11-22,Office Chair,Furniture,800,2,Germany
+43,2024-12-04,Laptop,Electronics,3500,1,Poland
+44,2024-12-10,Headphones,Electronics,300,3,Germany
+45,2024-12-18,Desk,Furniture,1200,1,Poland
