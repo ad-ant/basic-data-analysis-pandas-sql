@@ -21,9 +21,9 @@ for a Data & AI Internship role.
 ## Project Structure
 basic-data-analysis-pandas-sql/
 data/
-  data.csv
+    - data.csv
 notebooks/
-  analysis.ipynb
+    - analysis.ipynb
 .gitignore
 README.md
 
