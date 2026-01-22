@@ -20,12 +20,12 @@ for a Data & AI Internship role.
 
 ## Project Structure
 basic-data-analysis-pandas-sql/
-data/
-    - data.csv
-notebooks/
-    - analysis.ipynb
-.gitignore
-README.md
+- `data/`
+    - `data.csv`
+- `notebooks/`
+    - `analysis.ipynb`
+- `.gitignore`
+- `README.md`
 
 ## Key Insights
 - Sales show monthly variation across the year
